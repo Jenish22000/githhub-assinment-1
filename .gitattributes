@@ -1,5 +1,5 @@
 class Car{
-	
+	#print brand name
 	public String brand;
 	public String model;
 	public int amountOfFuel;
